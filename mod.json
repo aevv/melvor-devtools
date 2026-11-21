@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "id": "aevv.devtools",
+  "name": "Dev Tools",
+  "version": "0.1.0",
+  "author": "aevv",
+  "description": "Screenshots, scene tree dumps and input, driven through files.",
+  "license": "MIT",
+  "source": "https://github.com/aevv/melvor-devtools",
+  "host": ">=0.2",
+  "assembly": "DevTools.dll"
+}
